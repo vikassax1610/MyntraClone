@@ -29,7 +29,7 @@ Navigate to the Project Directory:
 cd myntra-clone
 Open index.html in Your Browser: Simply open the index.html file in your favorite web browser to start using the Myntra Clone.
 
-🛠️ Built With
+**🛠️ Built With**
 HTML5 - For creating the structure of the web pages.
 CSS3 - For styling the user interface.
 JavaScript - For adding interactivity and dynamic content.
@@ -47,11 +47,13 @@ const products = [
     },
     // Add more products as needed
 ];
-📈 Future Enhancements
+
+**📈 Future Enhancements**
 User Authentication: Implement login and registration functionalities.
 Search Functionality: Add a search bar to filter products.
 Responsive Design: Optimize for different screen sizes.
-🤝 Contributing
+
+**🤝 Contributing**
 Contributions are welcome! If you have any suggestions or find any bugs, feel free to create a pull request or open an issue.
 
 <h1 align="center">Made with ❤️ by Vikas Saxena</h1> ```
